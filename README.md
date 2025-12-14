@@ -65,3 +65,10 @@ The data is intentionally mixed and unsegmented to reflect real-world scenarios.
 
 ## 📂 Files Included
 - `customer_churn_support_analysis.sql` – Complete SQL queries for the project
+
+## 📊 Dashboard
+A Power BI dashboard was built on top of the SQL analysis to visualize
+customer churn risk, engagement levels, and revenue contribution.
+
+Dashboard file is available in the `/dashboard` folder.
+
