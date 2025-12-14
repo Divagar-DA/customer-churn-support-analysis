@@ -1,4 +1,4 @@
-# Customer Churn & Support Impact Analysis (SQL)
+# Customer Engagement & Support Impact Analysis (SQL)
 
 ## 📌 Project Overview
 This project analyzes customer behavior to identify churn risk and engagement patterns, and evaluates whether customer support interactions contribute to churn.
